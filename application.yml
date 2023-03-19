@@ -1,4 +1,7 @@
 # for cloud service enabled
+spring:
+  application:
+    name: Cofig-default
 eureka:
   instance:
     prefer-ip-address: true
